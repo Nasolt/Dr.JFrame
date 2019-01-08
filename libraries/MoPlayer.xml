@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MoPlayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/MoPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
